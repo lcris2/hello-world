@@ -1,3 +1,3 @@
 # hello-world
-Test repository
-my name is Cris Lizarraga and I am a student.
+CSE 360
+Cristobal Lizarraga Assignment1 part1.
